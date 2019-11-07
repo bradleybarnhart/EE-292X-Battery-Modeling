@@ -1,6 +1,7 @@
-# Ignore everything in rawdata, except ...
+# Ignore everything in rawdata, except README and cell spec sheet
 rawdata/*
 !rawdata/*.md
+!rawdata/*.pdf
 
 # Ignore xlsx in data/[temp]/[discharge]/.
 data/*/*/*.xlsx

@@ -1,3 +1,6 @@
 # Ignore everything in rawdata, except ...
 rawdata/*
 !rawdata/*.md
+
+# Ignore xlsx in data/[temp]/[discharge]/.
+data/*/*/*.xlsx

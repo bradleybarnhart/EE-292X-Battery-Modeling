@@ -25,3 +25,9 @@ Data for HPPC, UDDS, and US06 discharge experiments conducted at T=25degC. Data 
 Data for HPPC, UDDS, and US06, as seen in Dataset02, but at T=35degC.
 
 [Dropbox](https://www.dropbox.com/sh/l26mkm2wkygn6ai/AADXoFhSFLHzy8CXxv9Bof1fa?dl=0)
+
+### Dataset 04
+
+Data for HPPC, UDDS, and US06, as seen in Dataset02, but at T=05degC.
+
+[Dropbox](https://www.dropbox.com/sh/dwbq9vk8kmb5vui/AACTBex6ty_oT2CTG2Rwv_o3a?dl=0 )

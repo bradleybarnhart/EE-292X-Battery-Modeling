@@ -5,3 +5,6 @@ rawdata/*
 
 # Ignore xlsx in data/[temp]/[discharge]/.
 data/*/*/*.xlsx
+
+# Jupyter things
+.ipynb_checkpoints
